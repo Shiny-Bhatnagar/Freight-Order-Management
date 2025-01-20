@@ -56,9 +56,13 @@ This project implements a shipper scenario where:
   - Product type
   - Delivery priority
   - Source and destination locations
-
 ### 6. Freight Order Planning and Scheduling 
 - Go to SAP TM Cockpit.
 - Use the planning view to drag-and-drop Freight Units into Freight Orders.
 - Configure automated planning by defining optimizer settings under:
   - **SPRO** -> **Transportation Management** -> ** Transportation Planning** -> **Define Planning Settings**.
+    
+![Screenshot 2025-01-20 at 3 26 19 PM](https://github.com/user-attachments/assets/f2598904-3b57-46cd-87f5-87ee0dacb74e)
+![Screenshot 2025-01-20 at 3 13 49 PM](https://github.com/user-attachments/assets/327ff241-2099-4a7b-b1a4-ca49b158f978)
+
+  
