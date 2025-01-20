@@ -50,6 +50,9 @@ This project implements a shipper scenario where:
 - Go to **SPRO** -> **Transportation Management** ->**Integration** -> **Define Freight Unit Creation Creation Settings**
 - Map the freight unit type 'ZFUT' to the source object (e.g., sales orders or deliveries)
 - Activate the integration so freight units are automatically created when source documents are replicated to SAP TM.
+  
+  ![Screenshot 2025-01-20 at 3 34 40 PM](https://github.com/user-attachments/assets/e8fb4d1e-55db-4e8b-b9aa-87a37429174e)
+
 
 ### 5. Activate BAdI for Freight Unit Assignment
 - Implement the 'Z_CUSTOM_FU_ASSIGNMENT' BAdI to customize how Freight Units are assigned to Freight Orders based on specific business rules, such as:
